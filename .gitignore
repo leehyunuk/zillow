@@ -1,0 +1,11 @@
+# video files
+*.mp4
+
+# jupyter notebook-related
+.ipynb_checkpoints/
+
+#google drive syn files
+*.crdownload
+
+#parquet
+*.parquet
